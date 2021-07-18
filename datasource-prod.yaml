@@ -1,4 +1,4 @@
-type: oracle
+type: mongodb
 root: root
 password: 123456
 env: prod
