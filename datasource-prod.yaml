@@ -1,0 +1,4 @@
+type: mysql
+root: root
+password: 123456
+env: prod
